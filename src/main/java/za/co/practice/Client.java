@@ -51,7 +51,7 @@ public class Client {
         } catch (Exception e) {
 
             // If connection fails (server not running, wrong port, etc.)
-            System.out.println("Could not connect to Server!");;
+            System.out.println("Could not connect to Server!");
         }
     }
 }
